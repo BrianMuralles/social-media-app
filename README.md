@@ -11,6 +11,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 To add more "PATHS" add folder with "PATH" name and page.js under the folder
 To render new elemets in a "PATH" you put [brackets] around the file name allows for dynamic element rendering
+rafce
 https://youtu.be/wm5gMKuwSYk?si=ASwzGsOyjiWLq67H
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.

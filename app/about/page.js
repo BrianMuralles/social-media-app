@@ -1,7 +1,7 @@
 // Default page
 export default function Home() {
   return (
-    <div>BOB</div>
+    <div className="orange_radiant">BOB</div>
   )
    
 }
